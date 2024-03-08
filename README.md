@@ -2,9 +2,11 @@
 ## Header section and testmonials slider using only Bootstratp
 # Stack: HTML, CSS, Bootstrap.
 
-# Time: 43 mins.
+# Time: 
+43 mins.
 
-# Description: In this project, I used Bootstrap, making some modifications to the code that I took from the Bootstrap website. I downloaded the Bootstrap library to my local machine and also Font Awesome.
+# Description: 
+In this project, I used Bootstrap, making some modifications to the code that I took from the Bootstrap website. I downloaded the Bootstrap library to my local machine and also Font Awesome.
 
 # Outcome:
 1. How to use Bootstrap in the most efficient way to save time.
